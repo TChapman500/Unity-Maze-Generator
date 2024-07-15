@@ -9,3 +9,13 @@ remain a perfect maze every time it is modified.
 
 You can download the program from here:
 https://tchapman500.itch.io/maze-gen-demo
+
+# Controls
+| Key | Action |
+| --- | ------ |
+| Alt+F4 | Quit |
+| Space | Generate New Maze |
+| Shift+Space | Switch Algorithm and Generate New Maze |
+| 6 | Show/Hide Walls |
+| 7 | Show/Hide Nodes and Connections |
+| P/Pause | Pause Maze Generation |
